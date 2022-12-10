@@ -1,0 +1,68 @@
+body{
+    background-color: #90ee90;
+	font-size: 16px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#area-principal{
+    width: 80%;
+    margin: 5px  auto;
+    padding: 15px;
+	color: #000;
+}
+#principal{
+	height: auto;
+	width: 280px;
+	float: left;
+	margin: 5px 0px 10px 0px;
+	padding: 5px;
+	color: #000;
+}
+.lateral{
+	background-color: #f2f2f2;
+	width: 400px;
+	border-radius: 5px;
+	margin: 0px 0px 5px 5px; 
+	font-size: 10px;
+	float: right;
+	padding: 0px;
+	height: 40px;
+	margin: 0px 0px 0px 0px;
+}
+a:link{
+    color: #000;
+    margin: 5px;
+}
+a:visited{
+    color:#293948;
+}
+#area-rodape{
+	text-align: center;
+
+	background-color:#90ee90 ;
+	clear: both;
+}
+#area-cabecalho{
+	text-align: center;
+	padding: 20px;
+}
+#area-historia{
+
+	text-align: center;
+	color: #000;
+}
+#img-centro{
+	text-align: center;
+}
+#area-logo{
+	padding: 10px;
+}
+h1{
+	color: black;
+}
+h2{
+	color: black;
+}
+#area-meio{
+text-align: center;
+color: #f2f2f2;
+}
